@@ -21,7 +21,9 @@ const App =()=>{
     )
 }
 ```
-![Screenshot_20220503_185314 (1)](https://user-images.githubusercontent.com/56512897/166462395-d9b3fcb3-f5d3-44a9-a147-51ba18dae41a.jpg)
+![LoadingSkeleton](https://user-images.githubusercontent.com/56512897/170303522-5efe017b-5525-4edd-b895-ea987cbf13b0.gif)
+
+
 
 
 
