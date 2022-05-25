@@ -24,6 +24,7 @@ const App =()=>{
 ![LoadingSkeleton](https://user-images.githubusercontent.com/56512897/170303522-5efe017b-5525-4edd-b895-ea987cbf13b0.gif)
 
 
+![LoadingSkeleton](https://user-images.githubusercontent.com/56512897/170304266-0f41c531-d22a-4366-92be-6d37443bc643.gif)
 
 
 
