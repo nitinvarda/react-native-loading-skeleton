@@ -1,0 +1,31 @@
+{
+  "name": "react-native-loading-skeleton",
+  "version": "1.0.0",
+  "description": "loading skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.70.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "bugs": {
+    "url": "https://github.com/nitinvarda/react-native-loading-skeleton/issues"
+  },
+  "homepage": "https://github.com/nitinvarda",
+  "repository": "https://github.com/nitinvarda/react-native-loading-skeleton",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
